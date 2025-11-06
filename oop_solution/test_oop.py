@@ -1,6 +1,6 @@
 from library_oop import Library
 
-# Test Code for Procedural Library System
+# Test Code for OOP Library System
 
 
 def test_library_system():
